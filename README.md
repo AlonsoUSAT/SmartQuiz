@@ -69,10 +69,14 @@ SmartQuiz/
 
 https://fhernandezleonusat.pythonanywhere.com/
 
-Probar con usuario: profesor1
-Probar con contraseña: Profesor123
+```
+Usuarios de prueba
+```
 
-Para entrar a quizzes (usuario): alumno1
-Probar con contraseña: Alumno123
+-Para crear quizzes como docente: profesor1
+-Ingresar con contraseña: Profesor123
+
+-Para jugar a quizzes como alumno: alumno1
+-Ingresar con contraseña: Alumno123
 
 Solo acepta el registro de correos electrónicos de la Universidad Católica Santo Toribio de Mogrovejo.
