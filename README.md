@@ -65,18 +65,15 @@ SmartQuiz/
 ├── requirements.txt        # Dependencias
 └── .env.example            # Plantilla de variables de entorno
 ```
-## Link de web desplegada
+## Demo en vivo
 
-https://fhernandezleonusat.pythonanywhere.com/
+🔗 [fhernandezleonusat.pythonanywhere.com](https://fhernandezleonusat.pythonanywhere.com/)
 
-```
-Usuarios de prueba
-```
+## Usuarios de prueba
 
--Para crear quizzes como docente: profesor1
--Ingresar con contraseña: Profesor123
+| Rol | Usuario | Contraseña |
+|-----|---------|------------|
+|  Docente (crear quizzes) | `profesor1` | `Profesor123` |
+|  Alumno (jugar quizzes) | `alumno1` | `Alumno123` |
 
--Para jugar a quizzes como alumno: alumno1
--Ingresar con contraseña: Alumno123
-
-Solo acepta el registro de correos electrónicos de la Universidad Católica Santo Toribio de Mogrovejo.
+> El registro de nuevas cuentas solo acepta correos electrónicos de la Universidad Católica Santo Toribio de Mogrovejo (`@usat.pe`).
