@@ -65,3 +65,14 @@ SmartQuiz/
 ├── requirements.txt        # Dependencias
 └── .env.example            # Plantilla de variables de entorno
 ```
+## Link de web desplegada
+
+https://fhernandezleonusat.pythonanywhere.com/
+
+Probar con usuario: profesor1
+Probar con contraseña: Profesor123
+
+Para entrar a quizzes (usuario): alumno1
+Probar con contraseña: Alumno123
+
+Solo acepta el registro de correos electrónicos de la Universidad Católica Santo Toribio de Mogrovejo.
